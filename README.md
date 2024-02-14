@@ -1,8 +1,10 @@
 ### Olá!!! Me chamo Jabes Candido
-- Ainda estou implementando a API para que apareça os resultados dos repositórios privados
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jabes-CS&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-CS&layout=compact)
+<div>
+<a href="https://github.com/Jabes-CS">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jabes-CS&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-CS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
 
 <div> 
   <a href= "https://www.linkedin.com/in/jabes-candido-2223bb231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
