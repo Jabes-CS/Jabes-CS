@@ -1,5 +1,21 @@
 # Olá! Eu me chamo Jabes Candido
 
+>## Sobre mim
+>- `Sou apaixonado pela tecnologia, a busca por compreendê-la é minha motivação diária, assim a cada progresso transformando em linhas de códigos para um melhor aproveitamento do usuário.`
+>>_Soft Skills_ que busco sempre estar melhorando:
+  >>- Comunicação, liderança, trabalho em equipe;
+  >>- Organização, pensamento analítico, responsabilidade, comprometido;
+  >>- Resolução de problemas, criatividade, adaptação, empatia, flexibilidade.
+>#
+>>_Hard Skills_ em desenvolvimento:
+  >>- Analise de Dados e Estatísticas;
+  >>- Conhecimento na linguagem de programação (Python);
+  >>- Conhecimento básico em Redes de Computadores;
+  >>- Atendimento ao Cliente; Git e GitHub
+>- `Tenho como objetivo contribuir para o desenvolvimento de soluções inovadoras, colaborando com equipes dinâmicas e impulsionando meu crescimento profissional em um ambiente que valoriza a aprendizagem contínua.`
+
+
+
 # Contato: 
 <div> 
   <a href= "https://www.linkedin.com/in/jabes-candido-2223bb231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
