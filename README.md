@@ -4,7 +4,7 @@
 >- `Sou apaixonado pela tecnologia, a busca por compreendê-la é minha motivação diária, assim a cada progresso transformando em linhas de códigos para um melhor aproveitamento do usuário.`
 >>_Soft Skills_ que busco sempre estar melhorando:
   >>- Comunicação, liderança, trabalho em equipe;
-  >>- Organização, pensamento analítico, responsabilidade, comprometido;
+  >>- Organização, pensamento analítico, responsabilidade, comprometimento;
   >>- Resolução de problemas, criatividade, adaptação, empatia, flexibilidade.
 >#
 >>_Hard Skills_ em desenvolvimento:
