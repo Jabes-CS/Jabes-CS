@@ -22,10 +22,10 @@
 #
 
 ## _Estudando_
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![HTML](https://img.shields.io/static/v1?style=for-the-badge&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-<img alt="HTML" height="28" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+<img alt="HTML" height="28" src="https://img.shields.io/badge/SQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 <img alt="HTML" height="28" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">
 <img alt="HTML" height="28" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
 
