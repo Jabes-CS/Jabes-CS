@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Ol%C3%A1!+Eu+me+chamo+Jabes+Candido)](https://github.com/Jabes-CS)
+<img src="img/Banner%20pessoal.png" alt="Jabes Candido" width="100%" />
 
 <h3><i>"Transformo ideias em sistemas e sistemas em resultado. Tecnologia, para mim, só faz sentido quando gera valor real para quem confia no meu trabalho."</i></h3>
 
