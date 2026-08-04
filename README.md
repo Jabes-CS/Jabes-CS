@@ -1,48 +1,106 @@
-# Olá! Eu me chamo Jabes Candido
+<div align="center">
 
->## Sobre mim
->- `Sou apaixonado pela tecnologia, a busca por compreendê-la é minha motivação diária, assim a cada progresso transformando em linhas de códigos para um melhor aproveitamento do usuário.`
->>_Soft Skills_ que busco sempre estar melhorando:
-  >>- Comunicação, liderança, trabalho em equipe;
-  >>- Organização, pensamento analítico, responsabilidade, comprometimento;
-  >>- Resolução de problemas, criatividade, adaptação, empatia, flexibilidade.
->#
->>_Hard Skills_ em desenvolvimento:
-  >>- Analise de Dados e Estatísticas;
-  >>- Conhecimento na linguagem de programação (Python);
-  >>- Conhecimento básico em Redes de Computadores;
-  >>- Atendimento ao Cliente;
-  >>  - Git e GitHub
->- `Tenho como objetivo contribuir para o desenvolvimento de soluções inovadoras, colaborando com equipes dinâmicas e impulsionando meu crescimento profissional em um ambiente que valoriza a aprendizagem contínua.`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=80&lines=Ol%C3%A1!+Eu+me+chamo+Jabes+Candido)](https://github.com/Jabes-CS)
 
-## _Conhecimento_
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=E34F26&logo=Git&logoColor=FFFFFF&label=)
+<h3><i>"Transformo ideias em sistemas e sistemas em resultado. Tecnologia, para mim, só faz sentido quando gera valor real para quem confia no meu trabalho."</i></h3>
 
-#
-
-## _Estudando_
-<img alt="HTML" height="28" src="https://img.shields.io/badge/SQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-<img alt="HTML" height="28" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
-
-# Contato: 
-<div> 
-  <a href= "https://www.linkedin.com/in/jabes-candido-2223bb231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jabes.candido1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jabes.cs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-#
+<hr>
 
-<h1 align="center"> Atividade </h1>
-<a href="https://github.com/Jabes-CS">
-  
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-CS&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-<img  align="right" width= "370px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-CS&theme=tokyonight&layout=pie&include_all_commits=true" />
+## Sobre mim
 
-<div>
- <img height="203px" width= "370px" align="left"  src="https://github-readme-stats.vercel.app/api?username=Jabes-CS&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />  
- <img height="203px" width= "370px" align="left" src="https://streak-stats.demolab.com?user=Jabes-CS&theme=tokyonight&include_all_commits=true" />
+Sou empresário, desenvolvedor e apaixonado por tecnologia. Sou dono e sócio de duas empresas, e estar à frente delas me ensinou a enxergar cada projeto por inteiro, da primeira linha de código até o resultado final que chega ao cliente.
+
+No dia a dia eu cuido de tudo. Da parte tecnológica ao desenvolvimento, da gestão financeira ao controle operacional, do atendimento à estratégia de crescimento. Essa vivência me deu algo que vai muito além do código: visão de negócio e a noção real do que faz uma solução dar certo.
+
+**R7 Filmes e Embalagens** onde respondo pela gestão, pelas operações e pelo resultado do negócio.
+
+**Empresa de tecnologia** focada em desenvolvimento de sites, sistemas e soluções inteligentes. Trabalho com projetos já contratados e em produção, entregando sistemas prontos ou totalmente personalizados, feitos sob medida e com a cara de cada cliente.
+
+Acredito que tecnologia boa é aquela que resolve, simplifica e faz o negócio crescer. É esse o compromisso que levo para cada projeto: qualidade, clareza e valor real na entrega.
+
+**Como trabalho**
+
+`Comunicação` `Liderança` `Trabalho em equipe` `Organização` `Pensamento analítico` `Gestão` `Responsabilidade` `Comprometimento` `Resolução de problemas` `Criatividade` `Adaptação` `Visão de negócio`
+
+<hr>
+
+## Tecnologias e Ferramentas
+
+### Stack principal
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="60" height="60" style="margin: 0 12px;"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="60" height="60" style="margin: 0 12px;"/>
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="60" height="60" style="margin: 0 12px;"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="60" height="60" style="margin: 0 12px;"/>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="django" width="60" height="60" style="margin: 0 12px;"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="60" height="60" style="margin: 0 12px;"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="60" height="60" style="margin: 0 12px;"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" width="60" height="60" style="margin: 0 12px;"/>
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="60" height="60" style="margin: 0 12px;"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="60" height="60" style="margin: 0 12px;"/>
 </div>
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jabes-CS&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Jabes%20-%20Gráfico%20de%20Contribuição" />
+### Também trabalho com
+
+<div align="center">
+
+**Front-end e Web**
+
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,tailwind,bootstrap&perline=6" />
+
+**Back-end e Dados**
+
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,postgres,mongodb&perline=6" />
+
+**Infraestrutura e Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=linux,git,vscode,figma,postman,wordpress,vercel&perline=7" />
+
+</div>
+
+<hr>
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jabes-CS&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Jabes-CS&theme=tokyonight&include_all_commits=true" />
+</div>
+
+### Linguagens mais usadas por porcentagem
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-CS&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-CS&layout=pie&langs_count=8&theme=tokyonight&include_all_commits=true" />
+</div>
+
+### Gráfico de contribuição
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jabes-CS&theme=tokyo-night&hide_border=true&custom_title=Jabes%20-%20Grafico%20de%20Contribuicao" />
+</div>
+
+<hr>
+
+## Contato
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jabes-candido-2223bb231/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jabes.candido1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jabes.cs/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jabes-CS&color=36BCF7&style=flat-square&label=Visualizacoes+do+perfil" />
+</div>
