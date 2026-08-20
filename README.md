@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/Banner%20pessoal.png" alt="Jabes Candido" width="100%" />
+<img src="img/Banner-pessoal.png" alt="Jabes Candido" width="100%" />
 
 <h3><i>"Transformo ideias em sistemas e sistemas em resultado. Tecnologia, para mim, só faz sentido quando gera valor real para quem confia no meu trabalho."</i></h3>
 
