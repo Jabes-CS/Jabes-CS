@@ -65,17 +65,11 @@ Acredito que tecnologia boa é aquela que resolve, simplifica e faz o negócio c
 
 ## Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jabes-CS&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=Jabes-CS&theme=tokyonight&include_all_commits=true" />
-</div>
+![Estatísticas do GitHub de Jabes](https://github-readme-stats-my-own-1.vercel.app/api?username=Jabes-CS&show_icons=true&theme=dark&hide=contribs)
 
 ### Linguagens mais usadas por porcentagem
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-CS&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-CS&layout=pie&langs_count=8&theme=tokyonight&include_all_commits=true" />
-</div>
+![Principais indiomas de Jabes](https://github-readme-stats-my-own-1.vercel.app./api/top-langs/?username=Jabes-CS&layout=compact&theme=dark)
 
 ### Gráfico de contribuição
 
